@@ -1,4 +1,19 @@
 '''
+=== MODIFICATIONS by Robel ===
+Date: March 2026
+
+
+Added / changed:
+- Wind gust simulation (e.g. Dryden / von Karman turbulence model or simple random gusts)
+- Controller output limits / actuator saturation for realistic harsh-weather behavior
+
+
+Original code & copyright © Mark Misin Engineering.
+This derivative version follows the same usage & distribution terms.
+NO WARRANTY — use at your own risk.
+'''
+
+'''
 LICENSE AGREEMENT
 
 In relation to this Python file:
